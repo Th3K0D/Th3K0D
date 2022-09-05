@@ -1,4 +1,4 @@
-## Bruno "Ch4kz" Barreto | FullStack Developer
+## Bruno "Kods" Barreto | FullStack Developer
 
 <div>
   <a href="https://github.com/TheCh4kz">
