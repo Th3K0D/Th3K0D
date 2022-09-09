@@ -1,9 +1,9 @@
 ## Bruno "Kods" Barreto | FullStack Developer
 
 <div>
-  <a href="https://github.com/TheCh4kz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheCh4kz&show_icons=true&theme=gotham&include_all_comits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCh4kz&layout=compact&langs_count=16&theme=gotham"/>
+  <a href="https://github.com/TheKods">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheKods&show_icons=true&theme=gotham&include_all_comits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKods&layout=compact&langs_count=16&theme=gotham"/>
 </div>
   
   <div style="display: inline_block"><br>
