@@ -1,4 +1,4 @@
-## Bruno "Kods" Barreto | FullStack Developer
+## Bruno "Kods" Barreto | DevOps Engineer
 
 <div>
   <a href="https://github.com/TheKods">
