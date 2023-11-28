@@ -1,4 +1,4 @@
-## Bruno "Kods" Barreto | DevOps Engineer
+## Bruno "Th3K0d" Oliveira | CyberSec Analyst | Pentester
 
 <div>
   <a href="https://github.com/TheKods">
