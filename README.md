@@ -1,4 +1,4 @@
-## Bruno "Th3K0d" Oliveira | CyberSec Analyst | Pentester
+## Bruno "Th3K0d" Oliveira | CyberSec Analyst | Pentester | Bug Hunter
 
 <div>
   <a href="https://github.com/TheKods">
